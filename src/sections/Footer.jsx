@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className='bg-black text-white flex justify-center items-center gap-2 p-5' >
       <FaCopyright className='fill-blue-500 lg:size-5 size-8'  />
-      <p className='text-lg text-center'  >PRIME CONSTRUCTION</p>
+      <p className='text-lg text-center'  >Ukp Iron & Steel Works </p>
 
 
       <div id='icon-box' className='bg-blue-500 text-black p-3 rounded-full hover:bg-blue-600 hover:text-white cursor-pointer fixed lg:bottom-6 right-6 bottom-6' >

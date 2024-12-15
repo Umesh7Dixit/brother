@@ -22,7 +22,7 @@ const About = () => {
           <motion.h1
             variants={slideUpVariants}
             className='text-white uppercase text-[40px]  font-bold'>
-            Prime Construction </motion.h1>
+            Ukp Iron & Steel Works </motion.h1>
 
           <div className='w-[120px] h-[6px] bg-blue-500' ></div>
           <p className='text-3xl italic text-gray-50 mt-[60px]' >Crafting Precision Steel Solutions, Delivering Excellence Through Innovative Hardware Contracts</p>

@@ -95,8 +95,9 @@ const Header = () => {
     <nav className='w-full flex bg-white justify-between items-center gap-1 lg:px-16 px-6 py-4 sticky top-0 z-50'>
       {/* Logo */}
       <div className="flex items-center">
-        <h1 className='text-black md:text-4xl text-3xl font-bold font-rubik'>Prime</h1>
-        <span className='text-yellow-500 italic ml-1'>Structures</span>
+        <h1 className='text-black md:text-4xl text-3xl font-bold font-rubik'>Ukp Iron </h1>
+        <h1 className='text-gray-500 md:text-4xl text-3xl font-bold font-rubik'> & </h1>
+        <span className='text-yellow-500 italic ml-1'>Steel Works</span>
       </div>
 
       {/* Desktop Navigation */}
