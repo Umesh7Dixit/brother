@@ -116,9 +116,9 @@ const Header = () => {
       </ul>
 
       {/* Reach Us Button for Desktop */}
-      <button className='bg-blue-500 hover:bg-blue-400 hover:text-white text-white px-10 py-3 rounded-full font-semibold transform hover:scale-105 transition-transform duration-300 cursor-pointer md:flex hidden'>
+      {/* <button className='bg-blue-500 hover:bg-blue-400 hover:text-white text-white px-10 py-3 rounded-full font-semibold transform hover:scale-105 transition-transform duration-300 cursor-pointer md:flex hidden'>
         REACH US
-      </button>
+      </button> */}
 
       {/* Mobile Menu Toggle Button */}
       <div className='flex justify-between items-center lg:hidden' onClick={toggleMenu}>
