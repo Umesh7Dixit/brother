@@ -3,7 +3,7 @@ import { slideUpVariants, zoomInVariants } from './animation';
 
 import pi2 from '../assets/pi2.jpg';
 import pi3 from '../assets/pi3.jpeg';
-import pi4 from '../assets/pi4.jpg';
+import pi4 from '../assets/pi04.jpg';
 import pi5 from '../assets/pi5.jpg';
 import pi6 from '../assets/pi6.jpg';
 import pi7 from '../assets/pi7.jpg';
